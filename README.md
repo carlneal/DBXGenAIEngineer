@@ -1,2 +1,3 @@
-# DBXGenAIEngineer
-Databricks Gen AI Engineer Certification Training
+## Databricks Certified: GenAI Engineer Associate
+
+![course_thumbnail](./Assets/dbgenai_course_thumbnail.png)
